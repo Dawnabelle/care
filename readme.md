@@ -15,8 +15,14 @@ _This app is a fun, friend based game_
 ## Specs
 _Simple mockup using paper and Sketch_
 
-
-<div style="text-align:center"><img src="./img/lhtc-sketch.png" alt="mock up of site made in sketch" width="300"></div>
+* Below: Welcome page and avatar selector
+<div style="text-align:center"><img src="./img/care1.jpg" alt="mock up of site drawn by hand" width="300"></div>
+<br>
+* Below: Home page and cloud collecting game
+<div style="text-align:center"><img src="./img/care2.jpg" alt="mock up of site drawn by hand" width="300"></div>
+<br>
+* Below: Care forum
+<div style="text-align:center"><img src="./img/care3.jpg" alt="mock up of site drawn by hand" width="300"></div>
 
 
 ## Setup/Installation Requirements

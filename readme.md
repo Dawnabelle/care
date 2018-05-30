@@ -13,7 +13,7 @@ _UI - Week 2: Web Design Process_
 _This app is a fun, friend based game_
 
 ## Specs
-_Simple mockup using paper and Sketch_
+_Simple mockup, hand drawn on paper_
 
 * Below: Welcome page and avatar selector
 <div style="text-align:center"><img src="./img/care1.jpg" alt="mock up of site drawn by hand" width="300"></div>
